@@ -1,0 +1,272 @@
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales,Data_Completed
+180,Madden NFL 2004,PS2,,Sports,Electronic Arts,4.26,0.26,0.01,0.71,5.23,False
+378,FIFA Soccer 2004,PS2,,Sports,Electronic Arts,0.59,2.36,0.04,0.51,3.49,False
+432,LEGO Batman: The Videogame,Wii,2008.0,Action,Warner Bros. Interactive Entertainment,1.86,1.02,0.0,0.29,3.17,True
+471,wwe Smackdown vs. Raw 2006,PS2,,Fighting,,1.57,1.02,0.0,0.41,3.0,False
+608,Space Invaders,2600,2009.0,Shooter,Atari,2.36,0.14,0.0,0.03,2.53,True
+625,Rock Band,X360,2007.0,Misc,Electronic Arts,1.93,0.34,0.0,0.21,2.48,True
+650,Frogger's Adventures: Temple of the Frog,GBA,2001.0,Adventure,Konami Digital Entertainment,2.15,0.18,0.0,0.07,2.39,True
+653,LEGO Indiana Jones: The Original Adventures,Wii,2008.0,Action,LucasArts,1.54,0.63,0.0,0.22,2.39,True
+713,Call of Duty 3,Wii,2006.0,Shooter,Activision,1.19,0.84,0.0,0.23,2.26,True
+784,Rock Band,Wii,2007.0,Misc,MTV Games,1.35,0.56,0.0,0.2,2.11,True
+1128,Call of Duty: Black Ops,PC,2010.0,Shooter,Activision,0.58,0.81,0.0,0.24,1.63,True
+1135,Rock Band,PS3,2007.0,Misc,Electronic Arts,0.99,0.41,0.0,0.22,1.62,True
+1305,Triple Play 99,PS,1998.0,Sports,,0.81,0.55,0.0,0.1,1.46,True
+1435,LEGO Harry Potter: Years 5-7,Wii,2011.0,Action,Warner Bros. Interactive Entertainment,0.76,0.47,0.0,0.13,1.36,True
+1500,LEGO Batman: The Videogame,PSP,2008.0,Action,Warner Bros. Interactive Entertainment,0.57,0.46,0.0,0.28,1.32,True
+1515,Adventure,2600,,Adventure,Atari,1.21,0.08,0.0,0.01,1.3,False
+1587,Combat,2600,2001.0,Action,Atari,1.17,0.07,0.0,0.01,1.25,True
+1651,NASCAR Thunder 2003,PS2,,Racing,Unknown,0.6,0.46,0.0,0.16,1.22,False
+1699,Hitman 2: Silent Assassin,XB,2002.0,Action,Eidos Interactive,0.76,0.38,0.0,0.05,1.19,True
+1839,Rock Band,PS2,2007.0,Misc,Electronic Arts,0.71,0.06,0.0,0.35,1.11,True
+1992,Legacy of Kain: Soul Reaver,PS,1999.0,Action,Eidos Interactive,0.58,0.4,0.0,0.07,1.04,True
+2021,Donkey Kong Land III,GB,,Platform,Nintendo,0.68,0.31,0.0,0.04,1.03,False
+2088,LEGO Harry Potter: Years 5-7,X360,2011.0,Action,Warner Bros. Interactive Entertainment,0.51,0.39,0.0,0.09,0.99,True
+2115,Air-Sea Battle,2600,,Shooter,Atari,0.91,0.06,0.0,0.01,0.98,False
+2116,Suikoden III,PS2,2002.0,Role-Playing,Unknown,0.29,0.23,0.38,0.08,0.98,True
+2136,Yakuza 4,PS3,2011.0,Action,Sega,0.15,0.14,0.63,0.05,0.97,True
+2147,LEGO Harry Potter: Years 5-7,PS3,2011.0,Action,Warner Bros. Interactive Entertainment,0.36,0.45,0.0,0.16,0.97,True
+2175,Wheel of Fortune,PS2,2017.0,Misc,Unknown,0.47,0.36,0.0,0.12,0.95,True
+2288,Namco Museum,XB,2017.0,Misc,Unknown,0.77,0.11,0.0,0.04,0.91,True
+2297,Rhythm Heaven,Wii,2009.0,Misc,Unknown,0.13,0.0,0.77,0.01,0.9,True
+2417,The Lord of the Rings: War in the North,PS3,2011.0,Action,Warner Bros. Interactive Entertainment,0.25,0.45,0.01,0.15,0.86,True
+2424,The Lord of the Rings: War in the North,X360,2011.0,Action,Warner Bros. Interactive Entertainment,0.52,0.26,0.0,0.08,0.86,True
+2486,Madden NFL 07,PSP,2006.0,Sports,Unknown,0.77,0.03,0.0,0.04,0.83,True
+2499,MLB SlugFest 20-03,PS2,2002.0,Sports,Unknown,0.41,0.32,0.0,0.11,0.83,True
+2530,Shaun White Snowboarding,X360,2008.0,Sports,Ubisoft,0.48,0.26,0.0,0.08,0.82,True
+2588,PES 2009: Pro Evolution Soccer,PSP,,Sports,Konami Digital Entertainment,0.04,0.33,0.26,0.17,0.8,False
+2778,Madden NFL 11,Wii,2010.0,Sports,Unknown,0.7,0.0,0.0,0.05,0.74,True
+2788,WarioWare: Twisted!,GBA,2005.0,Puzzle,Unknown,0.16,0.06,0.5,0.02,0.74,True
+2840,LEGO Harry Potter: Years 5-7,DS,2011.0,Action,Warner Bros. Interactive Entertainment,0.35,0.3,0.0,0.07,0.72,True
+2949,Test Drive Unlimited 2,X360,2011.0,Racing,Atari,0.3,0.32,0.0,0.07,0.69,True
+3051,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",GBA,2005.0,Action,Disney Interactive Studios,0.48,0.18,0.0,0.01,0.67,True
+3143,Test Drive Unlimited 2,PS3,2011.0,Racing,Atari,0.16,0.35,0.01,0.12,0.64,True
+3196,Monster Hunter 2,PS2,,Role-Playing,Capcom,0.0,0.0,0.63,0.0,0.63,False
+3219,Advance Wars: Days of Ruin,DS,2008.0,Strategy,Nintendo,0.44,0.13,0.0,0.06,0.63,True
+3240,Metal Gear Solid 2: Substance,XB,2002.0,Action,Konami Digital Entertainment,0.38,0.22,0.0,0.03,0.62,True
+3348,The Golden Compass,Wii,2007.0,Action,Sega,0.26,0.28,0.0,0.07,0.6,True
+3423,Madden NFL 06,X360,2005.0,Sports,Electronic Arts,0.54,0.0,0.01,0.03,0.59,True
+3470,NASCAR: Dirt to Daytona,PS2,2002.0,Racing,Unknown,0.28,0.22,0.0,0.07,0.58,True
+3503,Madden NFL 2002,XB,,Sports,Unknown,0.53,0.02,0.0,0.03,0.58,False
+3717,Def Jam: Fight for NY,XB,2004.0,Fighting,Electronic Arts,0.43,0.1,0.0,0.02,0.54,True
+3755,NBA Street Vol. 2,GC,2003.0,Sports,Electronic Arts,0.41,0.11,0.0,0.01,0.54,True
+3882,Fishing Derby,2600,,Sports,Activision,0.48,0.03,0.0,0.01,0.51,False
+3954,Wet,X360,2009.0,Shooter,Bethesda Softworks,0.23,0.21,0.01,0.05,0.5,True
+4147,Sonic the Hedgehog,PS3,2007.0,Platform,,0.0,0.48,0.0,0.0,0.48,True
+4153,Karate,2600,,Fighting,Ultravision,0.44,0.03,0.0,0.0,0.47,False
+4201,Tiger Woods PGA Tour 07,Wii,2006.0,Sports,Electronic Arts,0.43,0.0,0.0,0.04,0.47,True
+4234,Circus Atari,2600,2012.0,Action,Atari,0.43,0.03,0.0,0.0,0.46,True
+4332,The Chronicles of Riddick: Escape from Butcher Bay,XB,2004.0,Shooter,Vivendi Games,0.32,0.11,0.0,0.02,0.45,True
+4380,Maze Craze: A Game of Cops 'n Robbers,2600,,Action,Atari,0.42,0.02,0.0,0.0,0.45,False
+4382,Silent Hill: Homecoming,X360,2008.0,Action,Konami Digital Entertainment,0.25,0.16,0.0,0.04,0.45,True
+4471,Super Breakout,2600,2008.0,Puzzle,Atari,0.41,0.03,0.0,0.0,0.44,True
+4474,Robert Ludlum's The Bourne Conspiracy,X360,2008.0,Action,Vivendi Games,0.26,0.14,0.0,0.04,0.44,True
+4538,NHL Slapshot,Wii,2010.0,Sports,Unknown,0.4,0.0,0.0,0.02,0.43,True
+4685,TERA,PC,2012.0,Role-Playing,Unknown,0.24,0.12,0.0,0.05,0.41,True
+4793,LEGO Harry Potter: Years 5-7,3DS,2011.0,Action,Warner Bros. Interactive Entertainment,0.18,0.19,0.0,0.04,0.4,True
+4799,NFL GameDay 2003,PS2,,Sports,Unknown,0.2,0.15,0.0,0.05,0.4,False
+4860,Silent Hill: Homecoming,PS3,2008.0,Action,Konami Digital Entertainment,0.18,0.15,0.0,0.06,0.4,True
+4867,Harvest Moon: Save the Homeland,PS2,2001.0,Simulation,Unknown,0.19,0.15,0.0,0.05,0.4,True
+4936,Robert Ludlum's The Bourne Conspiracy,PS3,2008.0,Action,Vivendi Games,0.18,0.14,0.0,0.06,0.39,True
+5063,Hangman,2600,2008.0,Puzzle,Atari,0.35,0.02,0.0,0.0,0.38,True
+5080,The Golden Compass,PSP,2007.0,Action,Sega,0.11,0.16,0.0,0.1,0.38,True
+5164,NBA Live 2003,XB,,Sports,Electronic Arts,0.31,0.04,0.0,0.01,0.36,False
+5173,Bejeweled 3,DS,2010.0,Puzzle,Unknown,0.32,0.02,0.0,0.03,0.36,True
+5197,Cubix Robots for Everyone: Clash 'n' Bash,GBA,2002.0,Action,Unknown,0.26,0.1,0.0,0.01,0.36,True
+5198,Tropico 4,X360,2011.0,Strategy,Kalypso Media,0.2,0.13,0.0,0.03,0.36,True
+5242,Tomb Raider (2013),PC,,Action,Square Enix,0.06,0.25,0.0,0.05,0.36,False
+5304,Dragon Ball Z: Budokai Tenkaichi 2 (JP sales),Wii,,Action,,0.15,0.05,0.14,0.01,0.35,False
+5510,Custom Robo,N64,2004.0,Role-Playing,Nintendo,0.0,0.0,0.29,0.04,0.33,True
+5620,Final Fantasy XI,PS2,2004.0,Role-Playing,Unknown,0.08,0.06,0.15,0.02,0.32,True
+5627,Singularity,X360,2010.0,Shooter,Unknown,0.24,0.05,0.0,0.02,0.32,True
+5659,Dragster,2600,,Racing,Activision,0.3,0.02,0.0,0.0,0.32,False
+5671,All-Star Baseball 2005,PS2,,Sports,Unknown,0.16,0.12,0.0,0.04,0.32,False
+5771,Star Wars Jedi Knight II: Jedi Outcast,XB,2002.0,Shooter,Activision,0.23,0.07,0.0,0.01,0.31,True
+5800,Slot Machine,2600,,Action,Atari,0.29,0.02,0.0,0.0,0.31,False
+5840,Shrek the Third,DS,2007.0,Action,Activision,0.26,0.02,0.0,0.02,0.3,True
+5863,The Dukes of Hazzard II: Daisy Dukes It Out,PS,2000.0,Racing,Unknown,0.17,0.11,0.0,0.02,0.3,True
+5872,Disgaea 3: Absence of Detention,PSV,2008.0,Role-Playing,Nippon Ichi Software,0.13,0.06,0.07,0.04,0.3,True
+5903,NBA Live 2003,GC,,Sports,Electronic Arts,0.23,0.06,0.0,0.01,0.3,False
+5915,Harvest Moon: The Tale of Two Towns,3DS,2011.0,Simulation,Unknown,0.28,0.0,0.0,0.02,0.3,True
+6044,Nicktoons: Battle for Volcano Island,GC,2006.0,Action,Unknown,0.22,0.06,0.0,0.01,0.29,True
+6127,Haven: Call of the King,PS2,2002.0,Platform,Midway Games,0.14,0.11,0.0,0.04,0.28,True
+6155,Unreal Championship 2: The Liandri Conflict,XB,2005.0,Shooter,Midway Games,0.22,0.05,0.0,0.01,0.28,True
+6197,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",GC,2005.0,Action,Disney Interactive Studios,0.22,0.06,0.0,0.01,0.28,True
+6213,Pac-Man Fever,GC,2002.0,Misc,Unknown,0.21,0.06,0.0,0.01,0.28,True
+6274,The Legend of Zelda: The Minish Cap(weekly JP sales),GBA,2005.0,Action,,0.0,0.0,0.27,0.01,0.27,True
+6285,Indy 500,2600,1997.0,Racing,Atari,0.26,0.01,0.0,0.0,0.27,True
+6316,Gun,X360,2005.0,Shooter,Activision,0.24,0.01,0.0,0.02,0.27,True
+6318,Flag Capture,2600,2015.0,Action,Atari,0.25,0.02,0.0,0.0,0.27,True
+6321,LEGO Harry Potter: Years 5-7,PSP,2011.0,Action,Warner Bros. Interactive Entertainment,0.1,0.11,0.0,0.06,0.27,True
+6403,Rock Revolution,PS3,2008.0,Misc,Unknown,0.25,0.0,0.0,0.02,0.27,True
+6498,Jonah Lomu Rugby Challenge,PS3,2011.0,Sports,Home Entertainment Suppliers,0.0,0.2,0.0,0.06,0.26,True
+6649,College Hoops 2K6,PS2,2005.0,Sports,Unknown,0.12,0.1,0.0,0.03,0.25,True
+6779,Mega Man X Collection,PS2,2006.0,Misc,Unknown,0.12,0.09,0.0,0.03,0.24,True
+6808,BioShock 2,PC,2010.0,Shooter,Take-Two Interactive,0.02,0.19,0.0,0.04,0.24,True
+6834,Singularity,PS3,2010.0,Shooter,Unknown,0.17,0.04,0.01,0.03,0.24,True
+6921,Danganronpa: Trigger Happy Havoc,PSP,2014.0,Misc,Unknown,0.0,0.0,0.24,0.0,0.24,True
+6928,DanceDanceRevolution II,Wii,2011.0,Misc,Konami Digital Entertainment,0.22,0.0,0.0,0.02,0.24,True
+6939,Tony Hawk's Downhill Jam,Wii,2006.0,Sports,Activision,0.21,0.0,0.0,0.02,0.24,True
+6968,Big Beach Sports 2,Wii,2010.0,Sports,THQ,0.09,0.12,0.0,0.03,0.23,True
+6970,Jet X20,PS2,,Racing,Unknown,0.11,0.09,0.0,0.03,0.23,False
+7037,Tribes: Aerial Assault,PS2,2002.0,Shooter,Unknown,0.11,0.09,0.0,0.03,0.23,True
+7183,Move Fitness,PS3,2013.0,Sports,Sony Computer Entertainment,0.0,0.17,0.0,0.05,0.22,True
+7215,LEGO Harry Potter: Years 5-7,PC,2011.0,Action,Warner Bros. Interactive Entertainment,0.05,0.14,0.0,0.03,0.22,True
+7353,Yu Yu Hakusho: Dark Tournament,PS2,2004.0,Fighting,,0.1,0.08,0.0,0.03,0.21,True
+7371,Ghostbusters II,2600,,Action,Activision,0.2,0.01,0.0,0.0,0.21,False
+7372,Breakaway IV,2600,,Puzzle,Sears,0.2,0.01,0.0,0.0,0.21,False
+7384,Robotech: Battlecry,XB,2002.0,Shooter,Unknown,0.16,0.05,0.0,0.01,0.21,True
+7408,Valkyria Chronicles III: Unrecorded Chronicles,PSP,2011.0,Strategy,Sega,0.0,0.0,0.21,0.0,0.21,True
+7425,WRC: FIA World Rally Championship,PS3,2011.0,Racing,Black Bean Games,0.0,0.15,0.01,0.05,0.21,True
+7617,Famista 64,N64,1997.0,Sports,Namco Bandai Games,0.0,0.0,0.17,0.03,0.2,True
+7650,Dead Space 3,PC,2013.0,Action,Electronic Arts,0.02,0.15,0.0,0.02,0.2,True
+7722,Test Drive Unlimited 2,PC,2011.0,Racing,Atari,0.05,0.11,0.0,0.03,0.2,True
+7910,Pet Zombies,3DS,2011.0,Simulation,Majesco Entertainment,0.18,0.0,0.0,0.01,0.19,True
+7948,Star Trek: Legacy,X360,2006.0,Simulation,Ubisoft,0.14,0.03,0.0,0.02,0.19,True
+8046,Trauma Team,Wii,2010.0,Simulation,Unknown,0.15,0.0,0.02,0.01,0.18,True
+8088,Backbreaker,X360,2010.0,Sports,Unknown,0.17,0.0,0.0,0.01,0.18,True
+8159,Twisted Metal: Small Brawl,PS,2001.0,Action,Unknown,0.1,0.07,0.0,0.01,0.18,True
+8169,Otomedius Excellent,X360,2011.0,Shooter,Unknown,0.13,0.0,0.04,0.01,0.18,True
+8206,NBA Starting Five,PS2,2002.0,Sports,Unknown,0.09,0.07,0.0,0.02,0.18,True
+8225,Teen Titans,GBA,2006.0,Action,Unknown,0.13,0.05,0.0,0.0,0.17,True
+8315,Backbreaker,PS3,2010.0,Sports,Unknown,0.16,0.0,0.0,0.01,0.17,True
+8336,James Cameron's Dark Angel,PS2,2002.0,Action,Universal Interactive,0.08,0.07,0.0,0.02,0.17,True
+8378,Sword of the Samurai,PS2,1989.0,Fighting,Ubisoft,0.0,0.0,0.17,0.0,0.17,True
+8441,Splatterhouse,PS3,2010.0,Action,Namco Bandai Games,0.13,0.02,0.0,0.02,0.17,True
+8555,Alone in the Dark: The New Nightmare,PS,2001.0,Adventure,Infogrames,0.09,0.06,0.0,0.01,0.16,True
+8622,Vegas Party,Wii,2009.0,Misc,Unknown,0.15,0.0,0.0,0.01,0.16,True
+8709,Jurassic Park: The Game,X360,2011.0,Action,Unknown,0.15,0.0,0.0,0.01,0.16,True
+8762,Home Run,2600,,Sports,Atari,0.14,0.01,0.0,0.0,0.15,False
+8901,eJay Clubworld,PS2,2003.0,Misc,Empire Interactive,0.07,0.06,0.0,0.02,0.15,True
+8931,All-Star Baseball 2005,XB,,Sports,Unknown,0.11,0.03,0.0,0.01,0.15,False
+9083,Our House Party!,Wii,2009.0,Simulation,Unknown,0.13,0.0,0.0,0.01,0.14,True
+9153,WCW Backstage Assault,N64,2000.0,Action,Unknown,0.11,0.03,0.0,0.0,0.14,True
+9173,Bejeweled 3,PS3,2010.0,Puzzle,Unknown,0.13,0.0,0.0,0.01,0.14,True
+9253,Bejeweled 3,X360,2010.0,Puzzle,Unknown,0.13,0.0,0.0,0.01,0.14,True
+9312,Disney's Cinderella: Magical Dreams,GBA,2005.0,Platform,Disney Interactive Studios,0.1,0.04,0.0,0.0,0.14,True
+9394,Transworld Surf,XB,2001.0,Sports,Atari,0.1,0.03,0.0,0.0,0.13,True
+9477,Street Fighter IV,PC,2009.0,Fighting,Capcom,0.07,0.04,0.0,0.02,0.13,True
+9524,Nintendo Puzzle Collection,GC,2003.0,Puzzle,Unknown,0.0,0.0,0.13,0.0,0.13,True
+9669,Charm Girls Club: My Fashion Mall,DS,2009.0,Simulation,Unknown,0.12,0.0,0.0,0.01,0.12,True
+9694,WRC: FIA World Rally Championship,X360,2011.0,Racing,Black Bean Games,0.0,0.1,0.0,0.02,0.12,True
+9744,Record of Agarest War Zero,PS3,2011.0,Strategy,Ghostlight,0.09,0.0,0.03,0.01,0.12,True
+9751,Super Robot Wars OG Saga: Masou Kishin II - Revelation of Evil God,PSP,,Strategy,,0.0,0.0,0.12,0.0,0.12,False
+9771,Saru! Get You! Million Monkeys,PS2,,Platform,Unknown,0.0,0.0,0.12,0.0,0.12,False
+9817,Street Hoops,GC,2002.0,Sports,Unknown,0.09,0.02,0.0,0.0,0.12,True
+9822,Godzilla: Destroy All Monsters Melee,XB,2002.0,Fighting,Unknown,0.09,0.03,0.0,0.0,0.12,True
+9823,The Daring Game for Girls,DS,2010.0,Adventure,Unknown,0.11,0.0,0.0,0.01,0.12,True
+9842,Rocksmith,PC,2011.0,Misc,Unknown,0.06,0.04,0.0,0.01,0.12,True
+9870,Major League Baseball 2K6,PSP,2006.0,Sports,Unknown,0.11,0.0,0.0,0.01,0.12,True
+9983,Happy Feet Two,DS,2011.0,Action,Warner Bros. Interactive Entertainment,0.09,0.02,0.0,0.01,0.12,True
+10047,Star Trek: Conquest,PS2,2007.0,Strategy,Bethesda Softworks,0.06,0.04,0.0,0.01,0.11,True
+10274,GiFTPiA,GC,2003.0,Role-Playing,Unknown,0.0,0.0,0.11,0.0,0.11,True
+10364,Disney's Chicken Little: Ace In Action,Wii,2006.0,Shooter,Disney Interactive Studios,0.1,0.0,0.0,0.01,0.11,True
+10467,Happy Feet Two,PS3,2011.0,Action,Warner Bros. Interactive Entertainment,0.09,0.01,0.0,0.01,0.1,True
+10496,Atsumare! Power Pro Kun no DS Koushien,DS,,Sports,,0.0,0.0,0.1,0.0,0.1,False
+10561,My Healthy Cooking Coach,DS,2009.0,Simulation,Unknown,0.09,0.0,0.0,0.01,0.1,True
+10692,Happy Feet Two,X360,2011.0,Action,Warner Bros. Interactive Entertainment,0.08,0.01,0.0,0.01,0.1,True
+10760,Luminous Arc 2 (JP sales),DS,,Role-Playing,Unknown,0.0,0.0,0.1,0.0,0.1,False
+10794,The Daring Game for Girls,Wii,2010.0,Adventure,Unknown,0.09,0.0,0.0,0.01,0.1,True
+10831,Egg Monster Hero,DS,,Role-Playing,Square Enix,0.0,0.0,0.09,0.0,0.09,False
+10981,Samurai Shodown Anthology,PSP,2009.0,Fighting,Ignition Entertainment,0.08,0.0,0.0,0.01,0.09,True
+10999,Demon Chaos,PS2,2005.0,Action,Konami Digital Entertainment,0.0,0.0,0.09,0.0,0.09,True
+11078,Action Man-Operation Extreme,PS,2000.0,Action,,0.05,0.03,0.0,0.01,0.09,True
+11110,Super Puzzle Fighter II,GBA,2003.0,Puzzle,Capcom,0.06,0.02,0.0,0.0,0.09,True
+11144,Happy Feet Two,Wii,2011.0,Action,Warner Bros. Interactive Entertainment,0.07,0.01,0.0,0.01,0.09,True
+11325,Charm Girls Club: My Fashion Show,DS,2009.0,Simulation,Unknown,0.08,0.0,0.0,0.01,0.08,True
+11333,Get Fit with Mel B,X360,,Sports,Black Bean Games,0.0,0.07,0.0,0.01,0.08,False
+11378,Face Racers: Photo Finish,3DS,2011.0,Racing,Majesco Entertainment,0.08,0.0,0.0,0.0,0.08,True
+11411,Zero: Tsukihami no Kamen,Wii,2023.0,Action,Nintendo,0.0,0.0,0.08,0.0,0.08,True
+11457,The Hidden,3DS,2011.0,Adventure,Unknown,0.08,0.0,0.0,0.0,0.08,True
+11545,Rock Revolution,Wii,2008.0,Misc,Unknown,0.07,0.0,0.0,0.01,0.08,True
+11575,Dead Island: Riptide,PC,2013.0,Action,Deep Silver,0.0,0.07,0.0,0.01,0.08,True
+11757,Mega Man Battle Network: Operation Shooting Star,DS,,Role-Playing,Capcom,0.0,0.0,0.07,0.0,0.07,False
+11800,Smashing Drive,GC,2002.0,Racing,Unknown,0.06,0.01,0.0,0.0,0.07,True
+11923,Dream Trigger 3D,3DS,2011.0,Shooter,D3Publisher,0.04,0.02,0.0,0.01,0.07,True
+11940,Tornado,DS,2008.0,Action,Ignition Entertainment,0.07,0.0,0.0,0.0,0.07,True
+11978,McFarlane's Evil Prophecy,PS2,2004.0,Action,Konami Digital Entertainment,0.03,0.03,0.0,0.01,0.07,True
+12017,Drake of the 99 Dragons,XB,2003.0,Shooter,Unknown,0.05,0.01,0.0,0.0,0.07,True
+12030,Port Royale 3,PS3,2012.0,Simulation,Kalypso Media,0.06,0.0,0.0,0.01,0.07,True
+12129,Build-A-Bear Workshop: Friendship Valley,Wii,2010.0,Misc,Unknown,0.06,0.0,0.0,0.0,0.07,True
+12131,Alex Rider: Stormbreaker,DS,2006.0,Action,THQ,0.06,0.0,0.0,0.0,0.07,True
+12137,Yoostar on MTV,X360,2011.0,Misc,Unknown,0.06,0.0,0.0,0.0,0.07,True
+12186,Rayman Arena,XB,2002.0,Racing,Unknown,0.05,0.01,0.0,0.0,0.07,True
+12214,National Geographic Challenge!,X360,2011.0,Misc,Unknown,0.06,0.0,0.0,0.0,0.07,True
+12240,Port Royale 3,X360,2012.0,Simulation,Kalypso Media,0.06,0.0,0.0,0.0,0.07,True
+12250,Jewel Link Chronicles: Mountains of Madness,DS,2012.0,Puzzle,Avanquest,0.0,0.06,0.0,0.01,0.06,True
+12489,Chou Soujuu Mecha MG,DS,2006.0,Simulation,,0.0,0.0,0.06,0.0,0.06,True
+12519,Prinny: Can I Really Be The Hero? (US sales),PSP,2009.0,Action,,0.06,0.0,0.0,0.0,0.06,True
+12533,Combat Elite: WWII Paratroopers,PS2,2005.0,Shooter,Unknown,0.03,0.02,0.0,0.01,0.06,True
+12628,Captain America: Super Soldier,Wii,2011.0,Action,Sega,0.05,0.0,0.0,0.0,0.06,True
+12668,Flip's Twisted World,Wii,2010.0,Platform,Unknown,0.05,0.0,0.0,0.0,0.06,True
+12711,Mobile Ops: The One Year War,X360,,Simulation,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06,False
+12751,Tom Clancy's Rainbow Six: Critical Hour,XB,2006.0,Shooter,Unknown,0.04,0.01,0.0,0.0,0.06,True
+12809,GRID,DS,2019.0,Racing,Codemasters,0.04,0.01,0.0,0.0,0.06,True
+12827,Captain America: Super Soldier,DS,2011.0,Action,Sega,0.05,0.0,0.0,0.0,0.05,True
+12881,Reader Rabbit 2nd Grade,Wii,2010.0,Misc,Unknown,0.05,0.0,0.0,0.0,0.05,True
+12917,Mountain Bike Adrenaline,PS2,2007.0,Sports,Unknown,0.03,0.02,0.0,0.01,0.05,True
+12924,Tour de France 2011,X360,,Racing,Focus Home Interactive,0.0,0.05,0.0,0.01,0.05,False
+12931,Drill Dozer,GBA,2006.0,Platform,Unknown,0.04,0.01,0.0,0.0,0.05,True
+13057,Battle vs. Chess,PS3,2012.0,Misc,TopWare Interactive,0.0,0.04,0.0,0.01,0.05,True
+13158,The History Channel: Great Battles - Medieval,PS3,2013.0,Strategy,Slitherine Software,0.0,0.04,0.0,0.01,0.05,True
+13280,Monster Hunter Frontier Online,PS3,,Role-Playing,,0.0,0.0,0.05,0.0,0.05,False
+13479,RollerCoaster Tycoon,PC,,Strategy,Microprose,0.02,0.02,0.0,0.01,0.04,False
+13667,GRID,PC,2019.0,Racing,Codemasters,0.0,0.03,0.0,0.01,0.04,True
+13674,B.L.U.E.: Legend of Water,PS,,Adventure,,0.0,0.0,0.04,0.0,0.04,False
+13677,Luxor: Pharaoh's Challenge,Wii,2007.0,Puzzle,Funsta,0.01,0.03,0.0,0.0,0.04,True
+13735,NHL Hitz Pro,GC,2003.0,Sports,Unknown,0.03,0.01,0.0,0.0,0.04,True
+13872,Sega Rally 2006,PS2,,Racing,Unknown,0.0,0.0,0.04,0.0,0.04,False
+13964,World of Tanks,X360,2011.0,Shooter,,0.0,0.03,0.0,0.0,0.04,True
+14048,Swords,Wii,2010.0,Fighting,Unknown,0.03,0.0,0.0,0.0,0.04,True
+14057,Half-Minute Hero 2,PSP,,Role-Playing,Rising Star Games,0.0,0.0,0.04,0.0,0.04,False
+14058,Clockwork Empires,PC,2016.0,Strategy,Unknown,0.0,0.03,0.0,0.0,0.04,True
+14089,Housekeeping,DS,,Action,,0.0,0.0,0.04,0.0,0.04,False
+14100,Major League Baseball 2K8,PSP,2008.0,Sports,Unknown,0.03,0.0,0.0,0.0,0.03,True
+14162,Sabre Wulf,GBA,2004.0,Platform,THQ,0.02,0.01,0.0,0.0,0.03,True
+14276,Beyond the Labyrinth,3DS,,Role-Playing,Unknown,0.0,0.0,0.03,0.0,0.03,False
+14299,Bikkuriman Daijiten,DS,2007.0,Misc,,0.0,0.0,0.03,0.0,0.03,True
+14315,Majesty 2: The Fantasy Kingdom Sim,X360,2009.0,Simulation,Unknown,0.03,0.0,0.0,0.0,0.03,True
+14380,Fullmetal Alchemist: Brotherhood,PSP,,Action,Unknown,0.0,0.0,0.03,0.0,0.03,False
+14476,Combat Elite: WWII Paratroopers,XB,2005.0,Shooter,Unknown,0.02,0.01,0.0,0.0,0.03,True
+14525,Samurai Spirits: Tenkaichi Kenkakuden,PS2,2006.0,Fighting,Unknown,0.0,0.0,0.03,0.0,0.03,True
+14586,Battle vs. Chess,PC,2012.0,Misc,TopWare Interactive,0.0,0.02,0.0,0.01,0.03,True
+14679,Tom and Jerry in War of the Whiskers,XB,2002.0,Fighting,Unknown,0.02,0.01,0.0,0.0,0.03,True
+14699,Super Duper Sumos,GBA,2003.0,Action,Unknown,0.02,0.01,0.0,0.0,0.03,True
+14852,Legacy of Ys: Books I & II,DS,,Role-Playing,Unknown,0.02,0.0,0.0,0.0,0.03,False
+14858,The King of Fighters: Maximum Impact - Maniax,XB,2005.0,Fighting,Unknown,0.02,0.01,0.0,0.0,0.03,True
+14879,Combat Wings: The Great Battles of WWII,Wii,,Simulation,City Interactive,0.02,0.0,0.0,0.0,0.03,False
+14928,Tube Slider,GC,2003.0,Racing,Unknown,0.02,0.0,0.0,0.0,0.02,True
+14945,Umineko no Naku Koro ni San: Shinjitsu to Gensou no Yasoukyoku,PS3,,Adventure,,0.0,0.0,0.02,0.0,0.02,False
+15000,Wii de Asobu: Metroid Prime,Wii,,Shooter,Nintendo,0.0,0.0,0.02,0.0,0.02,False
+15001,Payout Poker & Casino,PSP,2006.0,Misc,Unknown,0.02,0.0,0.0,0.0,0.02,True
+15002,Wii de Asobu: Metroid Prime,Wii,,Shooter,Nintendo,0.0,0.0,0.02,0.0,0.02,False
+15200,Saint,Wii,2009.0,Shooter,Unknown,0.02,0.0,0.0,0.0,0.02,True
+15211,Steal Princess,DS,2009.0,Platform,Unknown,0.02,0.0,0.0,0.0,0.02,True
+15264,Mario Tennis,3DS,2000.0,Sports,,0.0,0.0,0.02,0.0,0.02,True
+15319,Runaway: A Twist of Fate,DS,2011.0,Adventure,Focus Home Interactive,0.0,0.02,0.0,0.0,0.02,True
+15479,Yu-Gi-Oh! 5D's Wheelie Breakers (JP sales),Wii,,Racing,Unknown,0.0,0.0,0.02,0.0,0.02,False
+15582,Cabela's Alaskan Adventure,PS2,2006.0,Sports,Unknown,0.01,0.01,0.0,0.0,0.02,True
+15609,Writing and Speaking Beautiful Japanese DS,DS,,Misc,Unknown,0.0,0.0,0.02,0.0,0.02,False
+15655,Virtua Quest,PS2,2005.0,Role-Playing,Unknown,0.01,0.01,0.0,0.0,0.02,True
+15700,Shonen Jump's Yu-Gi-Oh! GX Card Almanac,DS,,Misc,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,False
+15720,Without Warning,XB,2005.0,Shooter,Capcom,0.01,0.0,0.0,0.0,0.02,True
+15742,Football Manager 2007,X360,,Sports,Sega,0.0,0.01,0.0,0.0,0.02,False
+15814,Ferrari: The Race Experience,Wii,2011.0,Racing,System 3 Arcade Software,0.0,0.01,0.0,0.0,0.02,True
+15868,PDC World Championship Darts 2008,DS,,Sports,Unknown,0.01,0.0,0.0,0.0,0.02,False
+15879,Dinotopia: The Sunstone Odyssey,GC,2003.0,Action,Unknown,0.01,0.0,0.0,0.0,0.02,True
+15881,Dance! It's Your Stage,Wii,2010.0,Misc,DTP Entertainment,0.0,0.01,0.0,0.0,0.02,True
+15903,Jet Impulse,DS,,Simulation,Nintendo,0.0,0.0,0.02,0.0,0.02,False
+15918,Dream Dancer,DS,2009.0,Misc,,0.01,0.0,0.0,0.0,0.02,True
+16060,PDC World Championship Darts 2008,PSP,,Sports,Oxygen Interactive,0.01,0.0,0.0,0.0,0.01,False
+16061,WRC: FIA World Rally Championship,PC,2011.0,Racing,Black Bean Games,0.0,0.01,0.0,0.0,0.01,True
+16068,Aquaman: Battle for Atlantis,XB,2003.0,Action,Unknown,0.01,0.0,0.0,0.0,0.01,True
+16194,Homeworld Remastered Collection,PC,2015.0,Strategy,,0.0,0.01,0.0,0.0,0.01,True
+16197,Shorts,DS,2009.0,Platform,Unknown,0.01,0.0,0.0,0.0,0.01,True
+16201,AKB1/48: Idol to Guam de Koishitara...,X360,,Misc,,0.0,0.0,0.01,0.0,0.01,False
+16232,Brothers in Arms: Furious 4,X360,,Shooter,,0.01,0.0,0.0,0.0,0.01,False
+16249,Agarest Senki: Re-appearance,PS3,,Role-Playing,Idea Factory,0.0,0.0,0.01,0.0,0.01,False
+16310,Freaky Flyers,GC,2003.0,Racing,Unknown,0.01,0.0,0.0,0.0,0.01,True
+16330,Inversion,PC,2012.0,Shooter,Namco Bandai Games,0.01,0.0,0.0,0.0,0.01,True
+16369,Hakuouki: Shinsengumi Kitan,PS3,,Adventure,Unknown,0.01,0.0,0.0,0.0,0.01,False
+16430,Virtua Quest,GC,2005.0,Role-Playing,Unknown,0.01,0.0,0.0,0.0,0.01,True
+16496,The Smurfs,3DS,2015.0,Action,Unknown,0.0,0.01,0.0,0.0,0.01,True
